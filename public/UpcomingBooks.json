@@ -1,0 +1,67 @@
+[
+  {
+    "bookId": 10,
+    "bookName": "Echoes of Eternity",
+    "author": "Victoria Blake",
+    "image": "https://i.ibb.co/0VvWT8K/book1.jpg",
+    "review": "A captivating fantasy adventure set in a world where magic and destiny intertwine. Blake weaves a tale of epic proportions, where heroes rise and fall against the backdrop of ancient prophecies and forgotten secrets. With vivid imagery and engaging characters, 'Echoes of Eternity' transports readers to a realm of wonder and danger, where the fate of kingdoms hangs in the balance.",
+    "totalPages": 398,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": ["Epic", "Magic"],
+    "publisher": "Silverstone Press",
+    "yearOfPublishing": 2024
+  },
+  {
+    "bookId": 11,
+    "bookName": "The Quantum Paradox",
+    "author": "Maxwell Black",
+    "image": "https://i.ibb.co/L05Q7QF/book2.jpg",
+    "review": "A mind-bending journey through the mysteries of quantum physics and parallel universes. Black explores the boundaries of reality and perception, challenging readers to question the nature of existence itself. With a blend of scientific theory and philosophical inquiry, 'The Quantum Paradox' offers a compelling exploration of the unknown, pushing the boundaries of human understanding.",
+    "totalPages": 276,
+    "rating": 4.8,
+    "category": "Science Fiction",
+    "tags": ["Quantum Physics", "Speculative Fiction"],
+    "publisher": "Nexus Books",
+    "yearOfPublishing": 2024
+  },
+  {
+    "bookId": 12,
+    "bookName": "Midnight Chronicles",
+    "author": "Elena Rivers",
+    "image": "https://i.ibb.co/MfVr4vY/book3.jpg",
+    "review": "A gripping mystery thriller that keeps readers on the edge of their seats until the very last page. Rivers masterfully crafts a tale of deception and betrayal, where nothing is as it seems. As the clock ticks down and tensions rise, the truth becomes increasingly elusive, leading to a shocking conclusion that will leave readers reeling.",
+    "totalPages": 320,
+    "rating": 4.5,
+    "category": "Mystery",
+    "tags": ["Suspense", "Detective"],
+    "publisher": "Rivertide Publishing",
+    "yearOfPublishing": 2024
+  },
+  {
+    "bookId": 13,
+    "bookName": "Stars Beyond the Void",
+    "author": "Jonathan Nova",
+    "image": "https://i.ibb.co/bgCg3LZ/book4.jpg",
+    "review": "An exhilarating space opera that thrusts readers into a universe of interstellar conflict and cosmic intrigue. Nova's vivid imagination and attention to detail create a sprawling galaxy filled with exotic aliens, epic space battles, and ancient mysteries waiting to be unraveled. 'Stars Beyond the Void' is a thrilling adventure that will leave readers clamoring for more.",
+    "totalPages": 432,
+    "rating": 4.7,
+    "category": "Science Fiction",
+    "tags": ["Space Opera", "Adventure"],
+    "publisher": "Stellar Press",
+    "yearOfPublishing": 2024
+  },
+  {
+    "bookId": 14,
+    "bookName": "The Last Seer",
+    "author": "Amelia Frost",
+    "image": "https://i.ibb.co/7SbmRvx/book5.jpg",
+    "review": "A spellbinding tale of magic, prophecy, and destiny. Frost transports readers to a world where seers hold the key to the future, but at a great cost. As tensions rise and dark forces gather, the fate of the realm hangs in the balance, and only the last seer can unravel the mysteries of the past to save the world from impending doom.",
+    "totalPages": 368,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": ["Magic", "Prophecy"],
+    "publisher": "Mystic Books",
+    "yearOfPublishing": 2024
+  }
+]
